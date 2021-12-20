@@ -65,11 +65,11 @@ body{
         overflow: auto;
       }
 .banner-background {
-    background-image: url("https://s3.amazonaws.com/codecademy-content/courses/ltp/img/lodging.png");
+    background-image: url("clouds.jpg");
     height: 500px;
     width: 100%;
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: cover;
 }
 .banner-content {
     position:absolute;
